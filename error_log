@@ -1,0 +1,1 @@
+[11-Nov-2024 05:24:09 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_box_seal_open() in /home4/shorikai/scholarsintschool.com/4xhkj1bd.php on line 784
